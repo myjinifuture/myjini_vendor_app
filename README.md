@@ -1,0 +1,1 @@
+# myjini_vendor_app
