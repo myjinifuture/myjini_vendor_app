@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682261671976",
+    "project_id": "smartsocietyadvertisement",
+    "storage_bucket": "smartsocietyadvertisement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682261671976:android:e8cb855923d223d938c51d",
+        "android_client_info": {
+          "package_name": "com.example.smartsocietyadvertisement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682261671976-s6ebo60f8i1pajvjogvj9ub5u59ncq18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ArL8veeoodvsAcdBtkXWHmKkTj1wDp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682261671976-s6ebo60f8i1pajvjogvj9ub5u59ncq18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
